@@ -1,5 +1,4 @@
 en:
   js:
-    discourse:
-      score:
-        label: "Your reputation"
+    user:
+      reputation: "Your reputation"
